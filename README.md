@@ -234,9 +234,3 @@ Contributions are welcome. You can improve this project by:
 - Adding recursive folder organization as an optional feature
 - Adding a dry-run mode
 - Improving cross-platform compatibility
-
----
-
-## License
-
-This project is free to use and modify. You may add an open-source license such as MIT if you plan to publish it publicly on GitHub.
